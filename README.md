@@ -3,7 +3,6 @@
 - Atualmente estou cursando Sistemas de informação
 - Gosto de programação e de desafios que envolva projetos de front, como de back
 - Sou iniciante, porém estou pronta para as oportunidades que surgirem, como também para ajudar no que eu souber
-- Pronomes: Ela / Dela
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabrina253&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
