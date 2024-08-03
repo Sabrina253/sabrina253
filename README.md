@@ -33,11 +33,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-[Snake animation](https://github.com/sabrina253/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-
