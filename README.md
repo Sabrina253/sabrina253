@@ -36,7 +36,7 @@
 
 ###
 
-![Snake animation](https://github.com/sabrina253/sabrina253/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/sabrina253/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
