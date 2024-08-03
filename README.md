@@ -36,6 +36,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sabrina253/sabrina253/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/sabrina253/sabrina253/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
+
