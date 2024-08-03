@@ -35,5 +35,5 @@
 </div>
 
 ###
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sabrina253/sabrina253/blob/output/github-contribution-grid-snake.svg)
 ###
