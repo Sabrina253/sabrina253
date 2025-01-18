@@ -1,5 +1,9 @@
-## Olá, mundo! Eu sou Sabrina 👋
+# Olá, mundo! Eu sou a Sabrina 👋  
 
-- Atualmente estou cursando Sistemas de informação
-- Gosto de programação e de desafios que envolva projetos de front, como de back
-- Sou iniciante, porém estou pronta para as oportunidades que surgirem, como também para ajudar no que eu souber
+- 🎓 Estudante de **Sistemas de Informação**, apaixonada por tecnologia e inovação.  
+- 💻 Amo resolver desafios, seja no **front-end** ou no **back-end**, sempre buscando aprender e evoluir.  
+- 🌱 Embora ainda esteja no início da minha jornada, estou pronta para abraçar novas oportunidades e colaborar com o que já aprendi.
+  
+---
+
+✨ *Vamos construir o futuro juntos!*
