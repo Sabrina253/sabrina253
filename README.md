@@ -1,6 +1,6 @@
 # Olá, mundo! 👋  
 
-- 🎓 Apenas uma estudante, uma aprendiz tentando aprender o seu oficio ^^
+- 🎓 Apenas uma estudante, *"Uma aprendiz ainda aprendendo o seu ofício."*
   
 ---
 
